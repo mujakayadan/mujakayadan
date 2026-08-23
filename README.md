@@ -84,7 +84,7 @@ Things I keep coming back to when nobody asked me to:
   ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-1895-brightgreen?style=for-the-badge&logo=duolingo&logoColor=white)
 - **Chickens, seriously.** Co-author of [*High accuracy gender determination using the egg shape index*](https://www.nature.com/articles/s41598-023-27772-4) in *Nature Scientific Reports* — sexing chicks from egg shape so fewer male chicks get culled.
 - **Chess vs models.** I benchmark how well LLMs actually play, not how well they talk about playing, in [LLM-Chess-Eval](https://github.com/mujakayadan/LLM-Chess-Eval).
-- **Career tooling.** I like automating the unfun parts of job search: [Resume-Builder-TeX](https://github.com/mujakayadan/Resume-Builder-TeX) writes tailored resumes from a portfolio, and [EnvMasker](https://github.com/mujakayadan/EnvMasker) hides secrets before they leak.
+- **Career tooling.** I like automating the unfun parts of job search. [YARBA](https://www.yarba.app) is the current app ([backend](https://github.com/mujakayadan/yarba-backend), [frontend](https://github.com/mujakayadan/yarba-frontend)). [EnvMasker](https://github.com/mujakayadan/EnvMasker) hides secrets before they leak.
 
 ### Travel & living map
 
@@ -99,11 +99,11 @@ Countries in coral are places I have lived. Blue is everywhere I have been.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mujakayadan/Resume-Builder-TeX">Resume-Builder-TeX</a></h3>
-      LLM-generated resumes and cover letters from a real portfolio, not from vibes.
+      <h3><a href="https://www.yarba.app">YARBA</a></h3>
+      Portfolio-first AI for truthful resumes, cover letters, and job applications. Successor to Resume-Builder-TeX.
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+        <a href="https://github.com/mujakayadan/yarba-backend"><img src="https://img.shields.io/badge/Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Backend" /></a>
+        <a href="https://github.com/mujakayadan/yarba-frontend"><img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
