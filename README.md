@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/mujakayadan?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=mujakayadan">
-    <img src="https://komarev.com/ghpvc/?username=mujakayadan&label=PROFILE+VIEWS&color=2ccce4&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=mujakayadan&label=PROFILE+VIEWS&color=2ccce4&style=for-the-badge&base=1808" alt="Profile views" />
   </a>
   <a href="https://www.mujakayadan.com">
     <img src="https://img.shields.io/badge/Website-mujakayadan.com-FE428E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
