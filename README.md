@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Senior_AI_Engineer-FE428E?style=for-the-badge" alt="Senior AI Engineer" />
-  <img src="https://img.shields.io/badge/San_Francisco-1A1B27?style=for-the-badge" alt="San Francisco" />
+  <img src="https://img.shields.io/badge/Senior_AI_Engineer_@_Athene-FE428E?style=for-the-badge" alt="Senior AI Engineer at Athene" />
+  <img src="https://img.shields.io/badge/West_Des_Moines,_IA-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=white" alt="West Des Moines, IA" />
   <a href="https://github.com/mujakayadan">
     <img src="https://img.shields.io/github/followers/mujakayadan?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers" />
   </a>
@@ -36,7 +36,7 @@
 
 I build AI systems that have to survive production: LLM and retrieval services with evaluation gates, predictive and foundation models measured against real business baselines, and computer vision that runs in real time on real hardware. I have 5+ years of experience across machine learning, computer vision, and full-stack product engineering, and I still get disproportionately excited about a clean dataset, a stubborn edge case, and a well-shaped egg.
 
-- **Senior AI Engineer** at Athene
+- **Senior AI Engineer** at Athene, based in West Des Moines, Iowa
 - Previously led a five-engineer team (three offshore) as **Lead Software Engineer**, reporting to the CEO
 - Building around **RAG**, **LLM gateways**, **MCP agents**, **foundation models**, and **computer vision**
 - MS in Computer Science
