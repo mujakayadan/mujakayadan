@@ -100,7 +100,7 @@ I build AI systems that have to survive production: LLM and retrieval services w
 Things I keep coming back to when nobody asked me to:
 
 - **Languages.** I collect countries and grammar the same way. Current Duolingo streak:
-  ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-1974-brightgreen?style=for-the-badge&logo=duolingo&logoColor=white)
+  ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-1975-brightgreen?style=for-the-badge&logo=duolingo&logoColor=white)
 - **Chickens, seriously.** Co-author of [*High accuracy gender determination using the egg shape index*](https://www.nature.com/articles/s41598-023-27772-4) in *Nature Scientific Reports* — sexing chicks from egg shape so fewer male chicks get culled.
 - **Chess vs models.** I benchmark how well LLMs actually play, not how well they talk about playing, in [LLM-Chess-Eval](https://github.com/mujakayadan/LLM-Chess-Eval).
 - **Career tooling.** I like automating the unfun parts of job search. [YARBA](https://www.yarba.app) is the current app ([backend](https://github.com/mujakayadan/yarba-backend), [frontend](https://github.com/mujakayadan/yarba-frontend)). [EnvMasker](https://github.com/mujakayadan/EnvMasker) hides secrets before they leak.
